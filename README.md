@@ -29,7 +29,7 @@ Now, you've had the basic environment to run the code.
 ## Usage
 The core contribution is the control part of robotap(the jacobi matrix to compute the dpos of the end effector) in `control.py`. So, here are steps to use my repository:
 attention: you should select the task, the path of some documents carefully.
->First, use `collect_human_demonstration.py`to collect some eye-in-hand human demonstrations.
+>First, use `collect_human_demonstration.py`（in robosuite package）to collect some eye-in-hand human demonstrations.
 
 >Second, use tapir method or bootstap method from [the official repository](https://github.com/google-deepmind/tapnet) to track many points in these human demonstrations.
 
