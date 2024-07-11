@@ -35,5 +35,5 @@ attention: you should select the task, the path of some documents carefully.
 
 >Third, use `active_points.py`to extract active points from these tracks for the specific task.
 
->Fourth, use control.py to track a hand-select human demonstration carefully.
+>Fourth, use  `control.py` to track a hand-select human demonstration carefully.
 
