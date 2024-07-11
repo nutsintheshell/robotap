@@ -24,3 +24,6 @@ mkdir checkpoints
 wget -P checkpoints https://storage.googleapis.com/dm-tapnet/tapir_checkpoint_panning.npy
 wget -P checkpoints https://storage.googleapis.com/dm-tapnet/causal_tapir_checkpoint.npy
 ```
+Now, you've had the basic environment to run the code.
+
+## Usage
