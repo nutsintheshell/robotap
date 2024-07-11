@@ -7,5 +7,8 @@ We use the robosuite environment due to my limit desktop gpu. If you find some e
 ## Installation
 
 First, you should prepare for the robosuite environment:
->conda create -n tapnet python=3.10
->
+```
+conda create -n tapnet python=3.10
+pip install mujoco
+pip install robosuite
+```
