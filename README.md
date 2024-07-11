@@ -12,3 +12,4 @@ conda create -n tapnet python=3.10
 pip install mujoco
 pip install robosuite
 ```
+Then, prepare for tapnet methods according to [the official repository](https://github.com/google-deepmind/tapnet).
