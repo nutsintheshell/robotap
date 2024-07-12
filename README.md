@@ -33,7 +33,7 @@ attention: you should select the task, the path of some documents carefully.
 
 >Second, use tapir method or bootstap method from [the official repository](https://github.com/google-deepmind/tapnet) to track many points in these human demonstrations.
 
->Third, use `active_points.py`to extract active points from these tracks for the specific task.
+>Third, use `active.py`to extract active points from these tracks for the specific task.
 
 >Fourth, use  `control.py` to track a hand-select human demonstration carefully.
 
